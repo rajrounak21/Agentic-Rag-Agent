@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+langchain-google-genai
+pypdf
+pandas
+langchain-experimental
+tabulate
+streamlit
+altair
